@@ -152,7 +152,7 @@ export function Template(props: {
                   <div className="flex items-center justify-end gap-2">
                     <div>
                       <span className="subtitle font-semibold">
-                        <span className="text-red-500">*</span>
+                        <span className="text-red-500 mr-1">*</span>
                         {msg("requiredFields")}
                       </span>
                     </div>
