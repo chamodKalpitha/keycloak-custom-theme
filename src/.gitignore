@@ -3,6 +3,14 @@
 # === Owned files start ===
 # login/i18n.ts
 # login/components/Template/Template.tsx
+# login/components/UserProfileFormFields/UserProfileFormFields.tsx
+# login/pages/login/Page.tsx
+# login/pages/register/Form.tsx
+# login/pages/register/index.ts
+# login/pages/register/Page.stories.tsx
+# login/pages/register/Page.stories.tsx
+# login/pages/register/Page.tsx
+# login/pages/register/TermsAcceptance.tsx
 # === Owned files end =====
 
 # === @keycloakify/login-ui-storybook v250004.2.0 ===
@@ -36,7 +44,6 @@
 /login/pages/login-verify-email/Page.stories.tsx
 /login/pages/login-x509-info/Page.stories.tsx
 /login/pages/logout-confirm/Page.stories.tsx
-/login/pages/register/Page.stories.tsx
 /login/pages/saml-post-form/Page.stories.tsx
 /login/pages/select-authenticator/Page.stories.tsx
 /login/pages/select-organization/Page.stories.tsx
@@ -90,7 +97,6 @@
 /login/components/UserProfileFormFields/InputTagSelects.tsx
 /login/components/UserProfileFormFields/SelectTag.tsx
 /login/components/UserProfileFormFields/TextareaTag.tsx
-/login/components/UserProfileFormFields/UserProfileFormFields.tsx
 /login/pages/code/index.ts
 /login/pages/code/Page.stories.tsx
 /login/pages/code/Page.tsx
@@ -119,7 +125,6 @@
 /login/pages/login/index.ts
 /login/pages/login/Info.tsx
 /login/pages/login/Page.stories.tsx
-/login/pages/login/Page.tsx
 /login/pages/login/SocialProviders.tsx
 /login/pages/login/useProviderLogos.tsx
 /login/pages/login/useScript.tsx
@@ -188,11 +193,6 @@
 /login/pages/logout-confirm/index.ts
 /login/pages/logout-confirm/Page.stories.tsx
 /login/pages/logout-confirm/Page.tsx
-/login/pages/register/Form.tsx
-/login/pages/register/index.ts
-/login/pages/register/Page.stories.tsx
-/login/pages/register/Page.tsx
-/login/pages/register/TermsAcceptance.tsx
 /login/pages/saml-post-form/index.ts
 /login/pages/saml-post-form/Page.stories.tsx
 /login/pages/saml-post-form/Page.tsx

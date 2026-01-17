@@ -10,6 +10,7 @@ const { I18nProvider, useI18n } = i18nBuilder
         "Welcome to Acme inc - Your gateway to seamless planning and organization.",
       loginAccountTitle: "Login to your account",
       registerTitle: "Register a new account",
+      registerSubtitle: "Create your account to get started",
       email: "Email",
       enterCredentials: "Enter your credentials below to login",
       noAccount: "Don't have an account?",
@@ -33,6 +34,7 @@ const { I18nProvider, useI18n } = i18nBuilder
         "مرحبًا بك في Acme inc - بوابتك إلى التخطيط والتنظيم السلس.",
       loginAccountTitle: "تسجيل الدخول  إلى حسابك",
       registerTitle: "تسجيل حساب جديد",
+      registerSubtitle: "أنشئ حسابك للبدء",
       email: "البريد الإلكتروني",
       enterCredentials: "أدخل بيانات الاعتماد الخاصة بك أدناه لتسجيل الدخول",
       doRegister: "إنشاء حساب",
@@ -56,6 +58,7 @@ const { I18nProvider, useI18n } = i18nBuilder
         "Bienvenue sur Acme inc Votre passerelle vers une planification et une organisation sans faille.",
       loginAccountTitle: "Connectez-vous à votre compte",
       registerTitle: "Créer    un nouveau compte",
+      registerSubtitle: "Créez votre compte pour commencer",
       email: "E-mail",
       enterCredentials:
         "Entrez vos informations d'identification ci-dessous pour vous connecter",
