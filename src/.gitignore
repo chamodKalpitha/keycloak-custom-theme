@@ -10,6 +10,10 @@
 # login/pages/login-reset-password/Page.stories.tsx
 # login/pages/login-reset-password/Page.stories.tsx
 # login/pages/login-reset-password/Page.tsx
+# login/pages/login-update-password/index.ts
+# login/pages/login-update-password/Page.stories.tsx
+# login/pages/login-update-password/Page.stories.tsx
+# login/pages/login-update-password/Page.tsx
 # login/pages/register/Form.tsx
 # login/pages/register/index.ts
 # login/pages/register/Page.stories.tsx
@@ -42,7 +46,6 @@
 /login/pages/login-recovery-authn-code-config/Page.stories.tsx
 /login/pages/login-recovery-authn-code-input/Page.stories.tsx
 /login/pages/login-reset-otp/Page.stories.tsx
-/login/pages/login-update-password/Page.stories.tsx
 /login/pages/login-update-profile/Page.stories.tsx
 /login/pages/login-username/Page.stories.tsx
 /login/pages/login-verify-email/Page.stories.tsx
@@ -174,9 +177,6 @@
 /login/pages/login-reset-otp/index.ts
 /login/pages/login-reset-otp/Page.stories.tsx
 /login/pages/login-reset-otp/Page.tsx
-/login/pages/login-update-password/index.ts
-/login/pages/login-update-password/Page.stories.tsx
-/login/pages/login-update-password/Page.tsx
 /login/pages/login-update-profile/index.ts
 /login/pages/login-update-profile/Page.stories.tsx
 /login/pages/login-update-profile/Page.tsx

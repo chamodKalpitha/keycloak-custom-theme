@@ -15,6 +15,7 @@ const { I18nProvider, useI18n } = i18nBuilder
       enterCredentials: "Enter your credentials below to login",
       noAccount: "Don't have an account?",
       doRegister: "Sign up",
+      updatePasswordTitleSubtitle: "Protect your account with a new password",
       "organization.selectTitle": "Choose Your Organization",
       "organization.pickPlaceholder": "Pick an organization to continue",
       "carousel.slide1.title": "Get a premium business address.",
@@ -37,6 +38,7 @@ const { I18nProvider, useI18n } = i18nBuilder
       enterCredentials: "أدخل بيانات الاعتماد الخاصة بك أدناه لتسجيل الدخول",
       doRegister: "إنشاء حساب",
       noAccount: "ليس لديك حساب؟",
+      updatePasswordTitleSubtitle: "احمِ حسابك بكلمة مرور جديدة",
       "organization.selectTitle": "اختر مؤسستك",
       "organization.pickPlaceholder": "اختر مؤسسة للمتابعة",
       "carousel.slide1.title": "احصل على عنوان أعمال مميز.",
@@ -62,6 +64,8 @@ const { I18nProvider, useI18n } = i18nBuilder
         "Entrez vos informations d'identification ci-dessous pour vous connecter",
       doRegister: "S'inscrire",
       noAccount: "Vous n'avez pas de compte?",
+      updatePasswordTitleSubtitle:
+        "Protégez votre compte avec un nouveau mot de passe",
       "organization.selectTitle": "Choisissez Votre Organisation",
       "organization.pickPlaceholder":
         "Sélectionnez une organisation pour continuer",
