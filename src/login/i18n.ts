@@ -20,11 +20,9 @@ const { I18nProvider, useI18n } = i18nBuilder
       "carousel.slide1.title": "Get a premium business address.",
       "carousel.slide1.description":
         "Take your business to the next level with a unique, physical U.S. address and a virtual mailbox accessible anywhere, anytime. Manage your mail with ease, and enjoy the benefits of digitized paper mail, multi-user access, and more.",
-
       "carousel.slide2.title": "One-click access to the best growth tools.",
       "carousel.slide2.description":
         "Apply for banking, payments, payroll, accounting, and more with Firstbase Loop and get onboarded in seconds. No more lengthy applications or manual data entry. Just seamless access to the tools you need to grow your business.",
-
       "carousel.slide3.title": "Your company's all-in-one compliance solution",
       "carousel.slide3.description":
         "Put ongoing compliance, filings, and reports on autopilot. Never miss a deadline. Now includes beneficial ownership filings. Stay compliant with ease and focus on what matters most - growing your business.",
